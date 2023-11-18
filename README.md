@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
+From: 16 November 2023 - To: 18 November 2023
+
+Total Time: 24 mins
+
 GitIgnore file   17 mins         ██████████████████░░░░░░░   71.40 %
 Python           6 mins          ███████░░░░░░░░░░░░░░░░░░   27.66 %
 Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
