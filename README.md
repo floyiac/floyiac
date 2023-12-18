@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 15 December 2023
+From: 16 November 2023 - To: 16 December 2023
 
-Total Time: 71 hrs 48 mins
+Total Time: 75 hrs 31 mins
 
-Python           63 hrs 31 mins  ██████████████████████░░░   88.46 %
-Text             5 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-C++              1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-GitIgnore file   27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-HTML             13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Python           67 hrs 13 mins  ██████████████████████▒░░   89.01 %
+Text             5 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+C++              1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+GitIgnore file   27 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+HTML             13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
