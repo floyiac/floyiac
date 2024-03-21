@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 18 March 2024
+From: 16 November 2023 - To: 19 March 2024
 
-Total Time: 190 hrs 17 mins
+Total Time: 192 hrs 9 mins
 
-Python           131 hrs 58 mins █████████████████▒░░░░░░░   69.31 %
-C++              46 hrs 57 mins  ██████░░░░░░░░░░░░░░░░░░░   24.66 %
-Text             6 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Java             2 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-CSV/TSV          32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python           131 hrs 58 mins █████████████████░░░░░░░░   68.63 %
+C++              48 hrs 50 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.40 %
+Text             6 hrs 17 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Java             2 hrs 47 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+CSV/TSV          32 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
